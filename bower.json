@@ -1,0 +1,10 @@
+{
+  "name": "cordwood-example",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.0.0"
+  },
+  "dependencies": {
+    "cordwood": "https://github.com/rangle/cordwood.git#~0.1.2"
+  }
+}
