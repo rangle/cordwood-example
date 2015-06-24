@@ -1,6 +1,9 @@
 platforms/
 plugins/
+<<<<<<< HEAD
 www/lib/
+=======
+>>>>>>> first commit ⚡️
 
 # Logs
 *.log
