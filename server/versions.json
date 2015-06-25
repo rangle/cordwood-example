@@ -1,0 +1,52 @@
+{
+  "prs":[{
+    "branch": "feature/foo",
+    "timestamp": "2015-06-11T15:02:18.419Z",
+    "commit": "29b9d235292970e1f5249d9dea6fbfcbbe52ff7c",
+    "path": "/branch/master",
+    "pr": "139"
+  }, {
+    "branch": "feature/bar",
+    "timestamp": "2015-06-16T02:15:59.295Z",
+    "commit": "9cb67a9833c64b564dd7ac738744e77b79c26d12",
+    "path": "/branch/master",
+    "pr": "199"
+  }, {
+    "branch": "master",
+    "timestamp": "2015-06-16T15:40:25.060Z",
+    "commit": "46ae3ab1ffaeeeabdcb66e522a749d746c733fb2",
+    "path": "/branch/master",
+    "pr": "218"
+  }, {
+    "branch": "bugfix/baz",
+    "timestamp": "2015-06-16T15:49:39.603Z",
+    "commit": "7bf200d51096586558f0650b641778c3ff30746e",
+    "path": "/branch/master",
+    "pr": "223"
+  }],
+
+  "branches":[{
+    "branch": "feature/foo",
+    "timestamp": "2015-06-11T15:02:18.419Z",
+    "commit": "29b9d235292970e1f5249d9dea6fbfcbbe52ff7c",
+    "path": "/branch/master",
+    "pr": "139"
+  }, {
+    "branch": "feature/bar",
+    "timestamp": "2015-06-16T02:15:59.295Z",
+    "commit": "9cb67a9833c64b564dd7ac738744e77b79c26d12",
+    "path": "/branch/master",
+    "pr": "199"
+  }, {
+    "branch": "master",
+    "timestamp": "2015-06-16T15:40:25.060Z",
+    "commit": "46ae3ab1ffaeeeabdcb66e522a749d746c733fb2",
+    "path": "/branch/master"
+  }, {
+    "branch": "bugfix/baz",
+    "timestamp": "2015-06-16T15:49:39.603Z",
+    "commit": "7bf200d51096586558f0650b641778c3ff30746e",
+    "path": "/branch/master",
+    "pr": "223"
+  }]
+}
