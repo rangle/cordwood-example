@@ -44,3 +44,8 @@ bower_components
 
 keys.md
 .env
+
+server/branch/master/app.js
+server/branch/master/app.templ.js
+server/branch/master/app.css
+www/css
