@@ -48,4 +48,6 @@ keys.md
 server/branch/master/app.js
 server/branch/master/app.templ.js
 server/branch/master/app.css
+server/branch/feature-foo/app.js
+server/branch/feature-foo/app.css
 www/css
